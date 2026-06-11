@@ -17,15 +17,6 @@ PipelineHub is a browser-based learning platform that teaches you everything abo
 ### 📚 Learn CI/CD
 Step-by-step lessons with real YAML examples, inline code blocks, and key insights.
 
-| # | Lesson | Level | Duration |
-|---|--------|-------|----------|
-| 1 | What is CI/CD? | Beginner | 5 min |
-| 2 | Pipeline stages explained | Beginner | 8 min |
-| 3 | GitHub Actions basics | Beginner | 10 min |
-| 4 | Secrets & environment variables | Beginner | 6 min |
-| 5 | Caching & speed optimisation | Intermediate | 7 min |
-| 6 | CI/CD best practices | Intermediate | 7 min |
-
 Progress is saved in `localStorage` — pick up exactly where you left off.
 
 ---
